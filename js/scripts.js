@@ -33,7 +33,7 @@ function callbackFunc() {
   window.addEventListener("scroll", callbackFunc);
 
 
-/*window.addEventListener('DOMContentLoaded', event => {
+window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
     var navbarShrink = function () {
@@ -82,4 +82,4 @@ function callbackFunc() {
         elements: '#portfolio a.portfolio-box'
     });
 
-});*/
+});
